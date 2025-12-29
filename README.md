@@ -7,7 +7,7 @@ I'm passionate about defending organizations from threats through proactive secu
 
 ## 🛡️ Projects
 
-- Threat Hunting Scenario (Tor Browser Usage)
+- Threat Hunting Scenario (Tor Browser Usage) - Ongoing
 - **[Vulnerability Management Program Implementation](https://github.com/moradiya-neel/vulnerability-management-program/)**
 <!-- **[Threat Hunting Queries](https://github.com/username/threat-hunting-kql)** — KQL detection rules for brute force, ransomware, and data exfiltration -->
 <!-- **[Vulnerability Remediation Scripts](https://github.com/username/vuln-remediation)** — PowerShell automation for STIG compliance and patching -->
