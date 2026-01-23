@@ -9,7 +9,8 @@ I'm passionate about defending organizations from threats through proactive secu
 
 - **[Threat Hunting - THE AZUKI BREACH SAGA](https://github.com/moradiya-neel/threat-hunt-azuki-breach-saga)** - Ongoing
     - [Part 1: Port of Entry](https://github.com/moradiya-neel/threat-hunt-azuki-breach-saga/tree/main/part-1-port-of-entry)
-    - [Part 2: Cargo Hold](https://github.com/moradiya-neel/threat-hunt-azuki-breach-saga/tree/main/part-2-cargo-hold) 
+    - [Part 2: Cargo Hold](https://github.com/moradiya-neel/threat-hunt-azuki-breach-saga/tree/main/part-2-cargo-hold)
+    - [Part 3: Bridge Takeover](https://github.com/moradiya-neel/threat-hunt-azuki-breach-saga/tree/main/part-3-bridge-takeover) 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/moradiya-neel/tor-threat-hunting-scenario)**
 - **[Vulnerability Management Program Implementation](https://github.com/moradiya-neel/vulnerability-management-program/)**
 <!-- **[Threat Hunting Queries](https://github.com/username/threat-hunting-kql)** — KQL detection rules for brute force, ransomware, and data exfiltration -->
