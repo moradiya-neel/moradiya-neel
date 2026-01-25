@@ -7,7 +7,7 @@ I'm passionate about defending organizations from threats through proactive secu
 
 ## 🛡️ Projects
 
-- **[Threat Hunting - THE AZUKI BREACH SAGA](https://github.com/moradiya-neel/threat-hunt-azuki-breach-saga)**
+- **[Threat Hunt - THE AZUKI BREACH SAGA](https://github.com/moradiya-neel/threat-hunt-azuki-breach-saga)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/moradiya-neel/tor-threat-hunting-scenario)**
 - **[Vulnerability Management Program Implementation](https://github.com/moradiya-neel/vulnerability-management-program/)**
 <!-- **[Threat Hunting Queries](https://github.com/username/threat-hunting-kql)** — KQL detection rules for brute force, ransomware, and data exfiltration -->
