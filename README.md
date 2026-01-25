@@ -1,7 +1,7 @@
 # Neel Moradiya 🔐
 **Cybersecurity Analyst** | SecOps | Vulnerability Management
 
-I'm passionate about defending organizations from threats through proactive security operations, threat hunting, and vulnerability management. Currently honing my skills in a hands-on lab environment using enterprise-grade tools.
+Security practitioner focused on SecOps, threat hunting, and vulnerability management. This GitHub showcases hands-on labs, detection engineering, and enterprise-style security workflows built to mirror real-world environments.
 
 ---
 
