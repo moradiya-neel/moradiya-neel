@@ -7,6 +7,7 @@ Security practitioner focused on SecOps, threat hunting, and vulnerability manag
 
 ## 🛡️ Projects
 
+- **[Agentic SOC Analyst](https://github.com/moradiya-neel/)** - Ongoing
 - **[Threat Hunt - THE AZUKI BREACH SAGA](https://github.com/moradiya-neel/threat-hunt-azuki-breach-saga)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/moradiya-neel/tor-threat-hunting-scenario)**
 - **[Vulnerability Management Program Implementation](https://github.com/moradiya-neel/vulnerability-management-program/)**
