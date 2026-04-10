@@ -25,17 +25,17 @@ Building hands-on labs, detections, and security systems across cloud environmen
 ## 🛠️ Featured Projects
 
 🔹 [Threat Hunt: Azuki Breach Saga](https://github.com/moradiya-neel/threat-hunt-azuki-breach-saga)
-→ End-to-end investigation simulation (initial access → lateral movement → exfiltration)
-→ Includes detection logic, dwell time analysis, and MITRE ATT&CK mapping
+- End-to-end investigation simulation (initial access → lateral movement → exfiltration)
+- Includes detection logic, dwell time analysis, and MITRE ATT&CK mapping
 
 🔹 [Vulnerability Management Program](https://github.com/moradiya-neel/vulnerability-management-program)
-→ Simulated enterprise vulnerability lifecycle
-→ Risk prioritization, remediation workflows, stakeholder coordination
+- Simulated enterprise vulnerability lifecycle
+- Risk prioritization, remediation workflows, stakeholder coordination
 
 👉 More projects coming:
-	•	Cloud IAM privilege escalation lab
-	•	Detection-as-code repository
-	•	AI security attack simulations
+-	Cloud IAM privilege escalation lab
+-	Detection-as-code repository
+-	AI security attack simulations
 
 ---
 
@@ -72,10 +72,10 @@ Building hands-on labs, detections, and security systems across cloud environmen
 ## 🎯 What I’m Working Toward
 
 Transitioning into Security Engineering roles focused on:
-	•	Cloud infrastructure security
-	•	Detection systems & automation
-	•	Secure system design
-	•	AI system security
+- Cloud infrastructure security
+-	Detection systems & automation
+-	Secure system design
+-	AI system security
 
 ---
 
