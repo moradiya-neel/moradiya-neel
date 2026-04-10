@@ -1,9 +1,45 @@
 # Neel Moradiya 🔐
-**Cybersecurity Analyst** | SecOps | Vulnerability Management
+**Security Analyst → Security Engineer (Cloud & AI Security)**
 
-Security practitioner focused on SecOps, threat hunting, and vulnerability management. This GitHub showcases hands-on labs, detection engineering, and enterprise-style security workflows built to mirror real-world environments.
+Building hands-on labs, detections, and security systems across cloud environments.
 
 ---
+
+## 🚀 What I Do
+- Investigate real-world attack scenarios and translate them into practical security labs
+- Build and simulate cloud security misconfigurations and attack paths (Azure/AWS)
+- Develop detection strategies (KQL, SIEM, threat hunting workflows)
+- Design vulnerability management processes with real-world constraints
+- Exploring AI/LLM security risks (prompt injection, misuse, attack surface)
+
+---
+
+## 🧠 Current Focus
+- Cloud Security Engineering (IAM, misconfigurations, attack paths)
+- Detection Engineering & Threat Hunting
+- Vulnerability Management at scale
+- AI Security (emerging risks in LLM-based systems)
+
+---
+
+## 🛠️ Featured Projects
+
+🔹 [Threat Hunt: Azuki Breach Saga] (https://github.com/moradiya-neel/threat-hunt-azuki-breach-saga)
+→ End-to-end investigation simulation (initial access → lateral movement → exfiltration)
+→ Includes detection logic, dwell time analysis, and MITRE ATT&CK mapping
+
+🔹 [Vulnerability Management Program] (https://github.com/moradiya-neel/vulnerability-management-program)
+→ Simulated enterprise vulnerability lifecycle
+→ Risk prioritization, remediation workflows, stakeholder coordination
+
+👉 More projects coming:
+	•	Cloud IAM privilege escalation lab
+	•	Detection-as-code repository
+	•	AI security attack simulations
+
+---
+
+<!-- 
 
 ## 🛡️ Projects
 
@@ -16,9 +52,9 @@ Security practitioner focused on SecOps, threat hunting, and vulnerability manag
 <!-- **[Sentinel Dashboards](https://github.com/username/sentinel-dashboards)** — SIEM dashboards for logon failures and threat intel monitoring -->
 <!-- **[IR Tabletop Scenarios](https://github.com/username/ir-tabletops)** — Threat hunting scenarios for incident response exercises -->
 
----
+<!--
 
-<!-- ## 🔧 Tools & Technologies
+## 🔧 Tools & Technologies
 
 | Category | Tools |
 |----------|-------|
@@ -33,6 +69,18 @@ Security practitioner focused on SecOps, threat hunting, and vulnerability manag
 
 --->
 
+## 🎯 What I’m Working Toward
+
+Transitioning into Security Engineering roles focused on:
+	•	Cloud infrastructure security
+	•	Detection systems & automation
+	•	Secure system design
+	•	AI system security
+
+---
+
+<!--
+
 ## 🔬 Lab Environment
 
 I maintain a personal security lab built on cloud infrastructure (Azure/AWS) where I practice:
@@ -41,7 +89,7 @@ I maintain a personal security lab built on cloud infrastructure (Azure/AWS) whe
 - SIEM use case development and KQL query writing
 - Vulnerability scanning and remediation workflows
 
----
+-->
 
 
 ## 📫 Let's Connect
