@@ -24,11 +24,11 @@ Building hands-on labs, detections, and security systems across cloud environmen
 
 ## 🛠️ Featured Projects
 
-🔹 [Threat Hunt: Azuki Breach Saga] (https://github.com/moradiya-neel/threat-hunt-azuki-breach-saga)
+🔹 [Threat Hunt: Azuki Breach Saga](https://github.com/moradiya-neel/threat-hunt-azuki-breach-saga)
 → End-to-end investigation simulation (initial access → lateral movement → exfiltration)
 → Includes detection logic, dwell time analysis, and MITRE ATT&CK mapping
 
-🔹 [Vulnerability Management Program] (https://github.com/moradiya-neel/vulnerability-management-program)
+🔹 [Vulnerability Management Program](https://github.com/moradiya-neel/vulnerability-management-program)
 → Simulated enterprise vulnerability lifecycle
 → Risk prioritization, remediation workflows, stakeholder coordination
 
