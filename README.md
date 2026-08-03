@@ -1,24 +1,19 @@
 # Neel Moradiya 🔐
-**Security Analyst → Security Engineer (Cloud & AI Security)**
+**Cloud Security**
 
-Building hands-on labs, detections, and security systems across cloud environments.
+Building hands-on labs, detections, and security systems across AWS cloud environments.
 
 ---
 
 ## 🚀 What I Do
 - Investigate real-world attack scenarios and translate them into practical security labs
 - Build and simulate cloud security misconfigurations and attack paths (Azure/AWS)
-- Develop detection strategies (KQL, SIEM, threat hunting workflows)
-- Design vulnerability management processes with real-world constraints
-- Exploring AI/LLM security risks (prompt injection, misuse, attack surface)
 
 ---
 
 ## 🧠 Current Focus
 - Cloud Security Engineering (IAM, misconfigurations, attack paths)
 - Detection Engineering & Threat Hunting
-- Vulnerability Management at scale
-- AI Security (emerging risks in LLM-based systems)
 
 ---
 
@@ -34,8 +29,6 @@ Building hands-on labs, detections, and security systems across cloud environmen
 
 👉 More projects coming:
 -	Cloud IAM privilege escalation lab
--	Detection-as-code repository
--	AI security attack simulations
 
 ---
 
