@@ -64,11 +64,10 @@ Building hands-on labs, detections, and security systems across AWS cloud enviro
 
 ## 🎯 What I’m Working Toward
 
-Transitioning into Security Engineering roles focused on:
+Transitioning into Cloud Security focused on:
 - Cloud infrastructure security
 -	Detection systems & automation
 -	Secure system design
--	AI system security
 
 ---
 
