@@ -1,93 +1,64 @@
 # Neel Moradiya 🔐
-**Cloud Security**
+**AWS Cloud Security Engineer | AWS Solutions Architect**
 
-Building hands-on labs, detections, and security systems across AWS cloud environments.
+I design secure, resilient cloud environments with a primary focus on AWS architecture, cloud migration, identity, network security, monitoring, and recovery.
+
+I currently provide AWS cloud migration and ongoing cloud-management services for a confidential healthcare-sector client. My portfolio also includes hands-on Azure security projects covering threat hunting, incident investigation, and vulnerability management.
 
 ---
+## 🎯 Core Areas
 
-## 🚀 What I Do
-- Investigate real-world attack scenarios and translate them into practical security labs
-- Build and simulate cloud security misconfigurations and attack paths (Azure/AWS)
+- Cloud Security and Security Architecture
+- AWS Solutions Architecture and Cloud Migration
+- Identity and Access Management
+- Cloud Infrastructure and Network Security
+- Microsoft Azure Security
+- Threat Hunting and Incident Response
+- Vulnerability Management and Remediation
 
 ---
 
 ## 🧠 Current Focus
-- Cloud Security Engineering (IAM, misconfigurations, attack paths)
-- Detection Engineering & Threat Hunting
+- Completing one end-to-end AWS cloud security project every two weeks, from architecture and implementation through validation and public documentation
+- Preparing for AWS Certified Solutions Architect – Associate (SAA-C03) and AWS Certified Security – Specialty (SCS-C03)
 
 ---
 
 ## 🛠️ Featured Projects
 
-🔹 [Threat Hunt: Azuki Breach Saga](https://github.com/moradiya-neel/threat-hunt-azuki-breach-saga)
-- End-to-end investigation simulation (initial access → lateral movement → exfiltration)
-- Includes detection logic, dwell time analysis, and MITRE ATT&CK mapping
+🔹 [SecureCart — AWS Cloud Security Redesign](https://github.com/moradiya-neel/securecart-aws-security-architecture)
+
+-	Security redesign of a simulated e-commerce environment on AWS. The project replaces publicly exposed application, database, and storage resources with a multi-AZ architecture built around private workloads, segmented networking, least-privilege access, encryption, monitoring, and layered protection.
+
+-	**Focus:** Cloud Security · AWS Architecture · Network Security · Defense in Depth
+
+🔹 [Threat Hunt — The Azuki Breach Saga](https://github.com/moradiya-neel/threat-hunt-azuki-breach-saga)
+
+-	Four-part investigation of a simulated ransomware attack using Microsoft Defender for Endpoint, Azure Log Analytics, and KQL. The project reconstructs the attack timeline, documents 91 indicators of compromise, maps attacker behavior to MITRE ATT&CK, and develops containment and remediation recommendations.
+
+-	**Focus:** Threat Hunting · Incident Response · Microsoft Azure · MITRE ATT&CK
 
 🔹 [Vulnerability Management Program](https://github.com/moradiya-neel/vulnerability-management-program)
-- Simulated enterprise vulnerability lifecycle
-- Risk prioritization, remediation workflows, stakeholder coordination
 
-👉 More projects coming:
--	Cloud IAM privilege escalation lab
+-	End-to-end simulated vulnerability management program covering governance, credentialed scanning, risk-based prioritization, remediation, validation, reporting, and risk acceptance. The completed cycle remediated all critical vulnerabilities and reduced total findings by 80%.
 
----
+-	**Focus:** Vulnerability Management · Risk Management · Remediation · Security Governance
 
-<!-- 
-
-## 🛡️ Projects
-
-- **[Agentic SOC Analyst](https://github.com/moradiya-neel/)** - Ongoing
-- **[Threat Hunt - THE AZUKI BREACH SAGA](https://github.com/moradiya-neel/threat-hunt-azuki-breach-saga)**
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/moradiya-neel/tor-threat-hunting-scenario)**
-- **[Vulnerability Management Program Implementation](https://github.com/moradiya-neel/vulnerability-management-program/)**
-<!-- **[Threat Hunting Queries](https://github.com/username/threat-hunting-kql)** — KQL detection rules for brute force, ransomware, and data exfiltration -->
-<!-- **[Vulnerability Remediation Scripts](https://github.com/username/vuln-remediation)** — PowerShell automation for STIG compliance and patching -->
-<!-- **[Sentinel Dashboards](https://github.com/username/sentinel-dashboards)** — SIEM dashboards for logon failures and threat intel monitoring -->
-<!-- **[IR Tabletop Scenarios](https://github.com/username/ir-tabletops)** — Threat hunting scenarios for incident response exercises -->
-
-<!--
-
-## 🔧 Tools & Technologies
-
-| Category | Tools |
-|----------|-------|
-| SIEM | Microsoft Sentinel |
-| EDR | Microsoft Defender for Endpoint |
-| Vulnerability Management | Tenable |
-| Query Languages | KQL (Kusto Query Language) |
-| Scripting | PowerShell |
-| Cloud | Azure (VMs, NSG, Firewalls), AWS |
-| Security Research | TOR Browser, Malware Analysis |
-| Compliance | DISA STIG |
-
---->
-
-## 🎯 What I’m Working Toward
-
-Transitioning into Cloud Security focused on:
-- Cloud infrastructure security
--	Detection systems & automation
--	Secure system design
 
 ---
 
-<!--
 
-## 🔬 Lab Environment
+## 🛡️ Credentials
 
-I maintain a personal security lab built on cloud infrastructure (Azure/AWS) where I practice:
-- Deploying and attacking/defending Windows & Linux VMs
-- Threat hunting and detection engineering with real EDR telemetry
-- SIEM use case development and KQL query writing
-- Vulnerability scanning and remediation workflows
+- MS in Cybersecurity — Yeshiva University
+- AWS Certified Cloud Practitioner
+- CompTIA Security+
 
--->
-
+---
 
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/moradiya-neel/)
-<!-- - [Personal Website](https://neelmoradiya.com) (future) -->
 
 ---
 
