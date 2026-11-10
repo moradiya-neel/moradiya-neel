@@ -1,6 +1,7 @@
 <h1 align="center">Neel Moradiya</h1>
 <p align="center"><b>AWS Cloud Security Engineer</b> · New York, NY</p>
 <p align="center">
+  <a href="https://neelmoradiya.com"><img src="https://img.shields.io/badge/Portfolio-neelmoradiya.com-0EA5E9?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/moradiya-neel/"><img src="https://img.shields.io/badge/LinkedIn-moradiya--neel-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat" alt="CompTIA Security+">
   <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner">
@@ -8,6 +9,8 @@
 </p>
 
 I secure AWS environments: least-privilege IAM, segmented networks, encryption, detective controls, and recovery. Today I secure and manage the AWS environment for a confidential healthcare-sector client. Before that, I built AWS VPC architectures and supported 200+ EC2 workloads for small and mid-sized businesses as a Cloud Engineer.
+
+Project write-ups with architecture diagrams, plus my resume: **[neelmoradiya.com](https://neelmoradiya.com)**
 
 ## What I work on
 
