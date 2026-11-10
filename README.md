@@ -1,65 +1,62 @@
 # Neel Moradiya 🔐
-**AWS Cloud Security Engineer | AWS Solutions Architect**
+**AWS Cloud Security Engineer** · New York, NY
 
-I design secure, resilient cloud environments with a primary focus on AWS architecture, cloud migration, identity, network security, monitoring, and recovery.
+I build and secure AWS environments with a focus on identity and access management, network segmentation, encryption, logging and monitoring, and recovery.
 
-I currently provide AWS cloud migration and ongoing cloud-management services for a confidential healthcare-sector client. My portfolio also includes hands-on Azure security projects covering threat hunting, incident investigation, and vulnerability management.
+I currently secure and manage the AWS environment for a confidential healthcare-sector client: least-privilege IAM, detective controls with CloudTrail, GuardDuty, Security Hub, and AWS Config, and regular reviews for public exposure and misconfigurations. My portfolio also includes hands-on Microsoft Azure security projects covering threat hunting, incident investigation, and vulnerability management.
 
 ---
+
 ## 🎯 Core Areas
 
-- Cloud Security and Security Architecture
-- AWS Solutions Architecture and Cloud Migration
+- Cloud Security and Security Architecture (AWS)
 - Identity and Access Management
-- Cloud Infrastructure and Network Security
-- Microsoft Azure Security
-- Threat Hunting and Incident Response
-- Vulnerability Management and Remediation
-
----
-
-## 🧠 Current Focus
-- Completing one end-to-end AWS cloud security project every two weeks, from architecture and implementation through validation and public documentation
-- Preparing for AWS Certified Solutions Architect – Associate (SAA-C03) and AWS Certified Security – Specialty (SCS-C03)
+- Network Security and Segmentation
+- Detection, Logging, and Monitoring
+- Threat Hunting and Incident Response (Microsoft Defender for Endpoint, KQL)
+- Vulnerability Management and Remediation (Tenable)
 
 ---
 
 ## 🛠️ Featured Projects
 
-🔹 [SecureCart — AWS Cloud Security Redesign](https://github.com/moradiya-neel/securecart-aws-security-architecture)
+🔹 [SecureCart — Insecure vs. Secured AWS Architecture](https://github.com/moradiya-neel/securecart-aws-security-architecture)
+- Builds a deliberately insecure e-commerce deployment on AWS, then rebuilds it with a segmented VPC, private application and database tiers, an internet-facing ALB, least-privilege security group chaining, encrypted RDS and S3, and AWS WAF.
+- **Focus:** Cloud Security · AWS Architecture · Network Security · Defense in Depth
 
--	Security redesign of a simulated e-commerce environment on AWS. The project replaces publicly exposed application, database, and storage resources with a multi-AZ architecture built around private workloads, segmented networking, least-privilege access, encryption, monitoring, and layered protection.
-
--	**Focus:** Cloud Security · AWS Architecture · Network Security · Defense in Depth
+🔹 [Foody Woody — Secure Static Website on AWS](https://github.com/moradiya-neel/foody-woody-secure-aws-website)
+- Keeps the S3 origin private behind CloudFront with Origin Access Control, enforces HTTPS, and validates AWS WAF managed rules by blocking a test XSS request with HTTP 403.
+- **Focus:** Cloud Security · CloudFront · S3 · AWS WAF
 
 🔹 [Threat Hunt — The Azuki Breach Saga](https://github.com/moradiya-neel/threat-hunt-azuki-breach-saga)
-
--	Four-part investigation of a simulated ransomware attack using Microsoft Defender for Endpoint, Azure Log Analytics, and KQL. The project reconstructs the attack timeline, documents 91 indicators of compromise, maps attacker behavior to MITRE ATT&CK, and develops containment and remediation recommendations.
-
--	**Focus:** Threat Hunting · Incident Response · Microsoft Azure · MITRE ATT&CK
+- Four-part investigation of a simulated ransomware attack using Microsoft Defender for Endpoint, Azure Log Analytics, and KQL. Works through 91 investigation flags, reconstructs the attack timeline, maps attacker behavior to MITRE ATT&CK, and documents indicators of compromise with remediation recommendations.
+- **Focus:** Threat Hunting · Incident Response · MITRE ATT&CK
 
 🔹 [Vulnerability Management Program](https://github.com/moradiya-neel/vulnerability-management-program)
+- End-to-end simulated program covering policy, stakeholder buy-in, credentialed Tenable scanning, risk-based prioritization, PowerShell remediation, and risk acceptance. Reduced total findings by 80% (30 to 6) and critical findings to zero.
+- **Focus:** Vulnerability Management · Risk Management · Remediation
 
--	End-to-end simulated vulnerability management program covering governance, credentialed scanning, risk-based prioritization, remediation, validation, reporting, and risk acceptance. The completed cycle remediated all critical vulnerabilities and reduced total findings by 80%.
-
--	**Focus:** Vulnerability Management · Risk Management · Remediation · Security Governance
-
+🔹 [Threat Hunt — Unauthorized Tor Usage](https://github.com/moradiya-neel/tor-threat-hunting-scenario)
+- Hunts unauthorized Tor use on an Azure VM with KQL across Defender file, process, and network events, builds a timeline, and isolates the device.
+- **Focus:** Threat Hunting · EDR · KQL
 
 ---
 
+## 🧠 Current Focus
+
+- Building hands-on AWS cloud security projects, from architecture and implementation through validation and public documentation
+- Preparing for AWS Certified Solutions Architect – Associate (SAA-C03) and AWS Certified Security – Specialty (SCS-C03)
+
+---
 
 ## 🛡️ Credentials
 
 - MS in Cybersecurity — Yeshiva University
-- AWS Certified Cloud Practitioner
 - CompTIA Security+
+- AWS Certified Cloud Practitioner
 
 ---
 
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/moradiya-neel/)
-
----
-
-*"Security is not a product, but a process."* — Bruce Schneier
