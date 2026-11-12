@@ -23,6 +23,7 @@ Project write-ups with architecture diagrams, plus my resume: **[neelmoradiya.co
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
+| [**Portfolio site (neelmoradiya.com)**](https://github.com/moradiya-neel/myportfolio) | My live site on a private S3 bucket behind CloudFront and OAC, with strict security headers (CSP, HSTS) and a page that audits its own headers, all built with Terraform | Terraform · S3 · CloudFront · ACM |
 | [**SecureCart**](https://github.com/moradiya-neel/securecart-aws-security-architecture) | An intentionally insecure AWS e-commerce deployment rebuilt with private app and database tiers, security group chaining, encryption, and WAF | VPC · ALB · EC2 · RDS · S3 · WAF |
 | [**Foody Woody**](https://github.com/moradiya-neel/foody-woody-secure-aws-website) | A private S3 origin behind CloudFront and OAC, with WAF blocking a test XSS request (HTTP 403) | S3 · CloudFront · OAC · WAF |
 | [**Azuki Breach Saga**](https://github.com/moradiya-neel/threat-hunt-azuki-breach-saga) | A four-part ransomware investigation: 91 flags, attack timeline, MITRE ATT&CK mapping, remediation | Defender for Endpoint · KQL · Log Analytics |
