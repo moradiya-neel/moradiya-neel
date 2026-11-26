@@ -60,4 +60,3 @@ Project write-ups with architecture diagrams, plus my resume: **[neelmoradiya.co
 
 - Securing a HIPAA-regulated pharmacy day to day: monitoring, patching, access reviews, and the 2027 security roadmap
 - Building more hands-on AWS security projects, each documented with architecture, evidence, and honest limitations
-- Preparing for AWS Certified Solutions Architect – Associate and AWS Certified Security – Specialty
