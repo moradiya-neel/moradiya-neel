@@ -1,6 +1,6 @@
 <h1 align="center">Neel Moradiya</h1>
-<!-- FROM JAN 2027 (not yet): change the title to "IT & Security Administrator" and the intro to "IT & Security Administrator at Legend Drugs since January 2027 (consultant on contract, March to December 2026)". -->
-<p align="center"><b>Information Security &amp; IT Consultant</b> · Cloud Security (AWS) · New York, NY</p>
+<!-- FROM JAN 2027 (not yet): change the intro to "IT & Security Administrator at Legend Drugs since January 2027 (consultant on contract, March to December 2026)". -->
+<p align="center"><b>Information Security and Cloud Security</b> · New York, NY</p>
 <p align="center">
   <a href="https://neelmoradiya.com"><img src="https://img.shields.io/badge/Portfolio-neelmoradiya.com-0EA5E9?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/moradiya-neel/"><img src="https://img.shields.io/badge/LinkedIn-moradiya--neel-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
