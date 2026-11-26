@@ -1,5 +1,6 @@
 <h1 align="center">Neel Moradiya</h1>
-<p align="center"><b>AWS Cloud Security Engineer</b> · New York, NY</p>
+<!-- FROM JAN 2027 (not yet): change the title to "IT & Security Administrator" and the intro to "IT & Security Administrator at Legend Drugs since January 2027 (consultant on contract, March to December 2026)". -->
+<p align="center"><b>Information Security &amp; IT Consultant</b> · Cloud Security (AWS) · New York, NY</p>
 <p align="center">
   <a href="https://neelmoradiya.com"><img src="https://img.shields.io/badge/Portfolio-neelmoradiya.com-0EA5E9?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/moradiya-neel/"><img src="https://img.shields.io/badge/LinkedIn-moradiya--neel-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -8,15 +9,23 @@
   <img src="https://img.shields.io/badge/MS-Cybersecurity-4B0082?style=flat" alt="MS Cybersecurity">
 </p>
 
-I secure AWS environments: least-privilege IAM, segmented networks, encryption, detective controls, and recovery. Today I secure and manage the AWS environment for a confidential healthcare-sector client. Before that, I built AWS VPC architectures and supported 200+ EC2 workloads for small and mid-sized businesses as a Cloud Engineer.
+I secure healthcare IT and AWS cloud environments. Today I am the sole IT and security owner for **Legend Drugs**, a HIPAA-regulated independent pharmacy in the Bronx, as an Information Security & IT Consultant (contract, since March 2026):
+
+- Identified and remediated 15 security findings and documented them in a baseline HIPAA security risk assessment
+- Deployed endpoint detection and response (EDR) across 100% of endpoints and enforced automatic patching
+- Implemented access controls including MFA, unique user logins, a password policy, and staff offboarding, applying HIPAA's minimum-necessary principle
+- Set up ongoing security monitoring and delivered a year-end security report with a prioritized roadmap
+
+Before that, I built AWS VPC architectures and supported 200+ EC2 workloads for small and mid-sized businesses as a Cloud Engineer at Diversity Infotech.
 
 Project write-ups with architecture diagrams, plus my resume: **[neelmoradiya.com](https://neelmoradiya.com)**
 
 ## What I work on
 
+- **Healthcare security and compliance:** HIPAA Security Rule, ePHI protection, security risk assessment, access control and MFA
+- **Endpoint and network security:** EDR, patch management, endpoint hardening, network segmentation, backup and recovery
 - **Cloud security on AWS:** IAM and separation of duties, VPC segmentation, security groups, KMS, AWS WAF
 - **Detection and monitoring:** CloudTrail, CloudWatch alarms, GuardDuty, Security Hub, AWS Config
-- **Exposure reviews:** finding public resources, weak permissions, and misconfigurations, then fixing them
 - **Threat hunting and vulnerability management:** KQL in Microsoft Defender for Endpoint, Tenable scanning and remediation
 
 ## Projects
@@ -42,10 +51,13 @@ Project write-ups with architecture diagrams, plus my resume: **[neelmoradiya.co
 ![Tenable](https://img.shields.io/badge/Tenable-00A9CE?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat)
 
-**Frameworks:** MITRE ATT&CK · NIST CSF · CIS Benchmarks · OWASP Top 10
+**Frameworks:** HIPAA Security Rule · MITRE ATT&CK · NIST CSF · CIS Benchmarks · OWASP Top 10
 
 ## Currently
 
+- Securing a HIPAA-regulated pharmacy day to day: monitoring, patching, access reviews, and the 2027 security roadmap
 - Building more hands-on AWS security projects, each documented with architecture, evidence, and honest limitations
 - Preparing for AWS Certified Solutions Architect – Associate and AWS Certified Security – Specialty
